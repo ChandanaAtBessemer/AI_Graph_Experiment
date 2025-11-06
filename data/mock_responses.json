@@ -1,0 +1,504 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "survey_id": 1,
+      "interviewee_name": "Alice Johnson",
+      "status": "completed",
+      "started_at": "2025-11-02T09:15:00",
+      "completed_at": "2025-11-02T09:22:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The user interface is really intuitive and clean. I love how easy it is to navigate between features.",
+          "created_at": "2025-11-02T09:16:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The pricing feels a bit high for small teams. Also, the mobile app could use some performance improvements.",
+          "created_at": "2025-11-02T09:18:45"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-02T09:20:10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "survey_id": 1,
+      "interviewee_name": "Bob Martinez",
+      "status": "completed",
+      "started_at": "2025-11-02T10:30:00",
+      "completed_at": "2025-11-02T10:38:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The collaboration features are fantastic. Real-time editing works smoothly.",
+          "created_at": "2025-11-02T10:32:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Need better documentation and more tutorial videos. The learning curve is steep.",
+          "created_at": "2025-11-02T10:35:20"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-02T10:37:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "survey_id": 1,
+      "interviewee_name": "Carol Chen",
+      "status": "completed",
+      "started_at": "2025-11-02T11:00:00",
+      "completed_at": "2025-11-02T11:07:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Love the dark mode option and the customizable dashboard.",
+          "created_at": "2025-11-02T11:02:15"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The pricing model is confusing. Would prefer a simpler tier structure.",
+          "created_at": "2025-11-02T11:04:50"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-02T11:06:30"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "survey_id": 1,
+      "interviewee_name": "David Kim",
+      "status": "completed",
+      "started_at": "2025-11-02T13:15:00",
+      "completed_at": "2025-11-02T13:23:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Fast performance and reliable uptime. Never had any crashes.",
+          "created_at": "2025-11-02T13:17:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The export functionality is limited. Need more format options like PDF and DOCX.",
+          "created_at": "2025-11-02T13:20:15"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 5,
+          "created_at": "2025-11-02T13:22:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "survey_id": 1,
+      "interviewee_name": "Emma Wilson",
+      "status": "completed",
+      "started_at": "2025-11-02T14:00:00",
+      "completed_at": "2025-11-02T14:09:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The integration with other tools we use is seamless. Saves us so much time.",
+          "created_at": "2025-11-02T14:02:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Customer support response times could be faster. Sometimes takes days to hear back.",
+          "created_at": "2025-11-02T14:06:00"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-02T14:08:15"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "survey_id": 1,
+      "interviewee_name": "Frank Rodriguez",
+      "status": "completed",
+      "started_at": "2025-11-02T15:30:00",
+      "completed_at": "2025-11-02T15:36:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Great analytics dashboard with useful insights.",
+          "created_at": "2025-11-02T15:32:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The mobile experience needs work. Too many features are desktop-only.",
+          "created_at": "2025-11-02T15:34:20"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-02T15:35:40"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "survey_id": 1,
+      "interviewee_name": "Grace Lee",
+      "status": "completed",
+      "started_at": "2025-11-03T09:00:00",
+      "completed_at": "2025-11-03T09:08:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The security features give me peace of mind. Two-factor authentication works well.",
+          "created_at": "2025-11-03T09:02:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Pricing is too expensive for freelancers. Need a cheaper solo plan.",
+          "created_at": "2025-11-03T09:05:45"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-03T09:07:20"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "survey_id": 1,
+      "interviewee_name": "Henry Brown",
+      "status": "completed",
+      "started_at": "2025-11-03T10:15:00",
+      "completed_at": "2025-11-03T10:21:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The template library is extensive and saves time on setup.",
+          "created_at": "2025-11-03T10:17:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The search function doesn't always return relevant results. Needs better algorithms.",
+          "created_at": "2025-11-03T10:19:30"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-03T10:20:45"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "survey_id": 1,
+      "interviewee_name": "Iris Patel",
+      "status": "completed",
+      "started_at": "2025-11-03T11:30:00",
+      "completed_at": "2025-11-03T11:37:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Customer onboarding process was smooth and helpful.",
+          "created_at": "2025-11-03T11:32:15"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Would love to see more customization options for reports and dashboards.",
+          "created_at": "2025-11-03T11:35:00"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-03T11:36:30"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "survey_id": 1,
+      "interviewee_name": "Jack Thompson",
+      "status": "completed",
+      "started_at": "2025-11-03T13:00:00",
+      "completed_at": "2025-11-03T13:06:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The API documentation is clear and well-organized.",
+          "created_at": "2025-11-03T13:02:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The pricing seems high compared to competitors. Hard to justify the cost.",
+          "created_at": "2025-11-03T13:04:30"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-03T13:05:45"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "survey_id": 1,
+      "interviewee_name": "Karen White",
+      "status": "completed",
+      "started_at": "2025-11-03T14:15:00",
+      "completed_at": "2025-11-03T14:22:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Love the notification system - keeps me updated without being intrusive.",
+          "created_at": "2025-11-03T14:17:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The interface feels cluttered on smaller screens. Needs responsive design improvements.",
+          "created_at": "2025-11-03T14:19:45"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-03T14:21:20"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "survey_id": 1,
+      "interviewee_name": "Leo Garcia",
+      "status": "completed",
+      "started_at": "2025-11-03T15:30:00",
+      "completed_at": "2025-11-03T15:38:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The keyboard shortcuts make workflow much faster.",
+          "created_at": "2025-11-03T15:32:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Need offline mode for when internet is unstable.",
+          "created_at": "2025-11-03T15:35:50"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-03T15:37:15"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "survey_id": 1,
+      "interviewee_name": "Maya Singh",
+      "status": "completed",
+      "started_at": "2025-11-04T09:00:00",
+      "completed_at": "2025-11-04T09:07:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The version control feature is excellent for team collaboration.",
+          "created_at": "2025-11-04T09:02:15"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Wish there was a free tier for students and educators.",
+          "created_at": "2025-11-04T09:05:00"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 5,
+          "created_at": "2025-11-04T09:06:30"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "survey_id": 1,
+      "interviewee_name": "Nathan Scott",
+      "status": "completed",
+      "started_at": "2025-11-04T10:15:00",
+      "completed_at": "2025-11-04T10:23:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Data visualization tools are powerful and easy to use.",
+          "created_at": "2025-11-04T10:17:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The onboarding tutorial could be more interactive and engaging.",
+          "created_at": "2025-11-04T10:20:45"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-04T10:22:15"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "survey_id": 1,
+      "interviewee_name": "Olivia Davis",
+      "status": "completed",
+      "started_at": "2025-11-04T11:30:00",
+      "completed_at": "2025-11-04T11:36:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The permission controls are flexible and secure.",
+          "created_at": "2025-11-04T11:32:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Performance slows down when working with large datasets.",
+          "created_at": "2025-11-04T11:34:30"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-04T11:35:50"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "survey_id": 1,
+      "interviewee_name": "Paul Anderson",
+      "status": "completed",
+      "started_at": "2025-11-04T13:00:00",
+      "completed_at": "2025-11-04T13:08:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The automation features save hours of manual work.",
+          "created_at": "2025-11-04T13:02:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The pricing structure doesn't scale well for growing teams.",
+          "created_at": "2025-11-04T13:06:00"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-04T13:07:30"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "survey_id": 1,
+      "interviewee_name": "Quinn Taylor",
+      "status": "completed",
+      "started_at": "2025-11-04T14:15:00",
+      "completed_at": "2025-11-04T14:21:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "Import/export functionality works flawlessly.",
+          "created_at": "2025-11-04T14:17:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Could use better mobile app notifications and sync.",
+          "created_at": "2025-11-04T14:19:30"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-04T14:20:45"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "survey_id": 1,
+      "interviewee_name": "Rachel Green",
+      "status": "completed",
+      "started_at": "2025-11-04T15:30:00",
+      "completed_at": "2025-11-04T15:37:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The UI is modern and aesthetically pleasing.",
+          "created_at": "2025-11-04T15:32:15"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Need more training resources and webinars for advanced features.",
+          "created_at": "2025-11-04T15:35:00"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-04T15:36:30"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "survey_id": 1,
+      "interviewee_name": "Sam Mitchell",
+      "status": "completed",
+      "started_at": "2025-11-05T09:00:00",
+      "completed_at": "2025-11-05T09:06:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The comment and feedback system encourages good team communication.",
+          "created_at": "2025-11-05T09:02:00"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "Pricing feels unjustified given the limited features compared to alternatives.",
+          "created_at": "2025-11-05T09:04:45"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 3,
+          "created_at": "2025-11-05T09:05:40"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "survey_id": 1,
+      "interviewee_name": "Tina Lopez",
+      "status": "completed",
+      "started_at": "2025-11-05T10:15:00",
+      "completed_at": "2025-11-05T10:23:00",
+      "responses": [
+        {
+          "question_id": 1,
+          "answer_text": "The platform stability is impressive - rarely any downtime.",
+          "created_at": "2025-11-05T10:17:30"
+        },
+        {
+          "question_id": 2,
+          "answer_text": "The user interface could be more intuitive for first-time users.",
+          "created_at": "2025-11-05T10:20:50"
+        },
+        {
+          "question_id": 3,
+          "answer_value": 4,
+          "created_at": "2025-11-05T10:22:20"
+        }
+      ]
+    }
+  ]
+}
