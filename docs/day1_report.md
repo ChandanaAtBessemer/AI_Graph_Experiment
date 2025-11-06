@@ -22,7 +22,6 @@ Set up infrastructure and data foundation for Graph-RAG experiment
 2. **Neo4j Over PostgreSQL+AGE** ✅
    - Faster setup (Docker vs compilation)
    - Better visualization tools
-   - More relevant for portfolio
 
 3. **Zero-Shot DSPy** ✅
    - Working immediately without labeled data
