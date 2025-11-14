@@ -1,0 +1,198 @@
+Id,Label,Label_Display
+0,Survey,Product Feedback Survey
+1,Question,Node_1
+2,Question,Node_2
+3,Question,Node_3
+4,Participant,Alice Johnson
+5,Session,Node_5
+6,Response,The user interface is really intuitive and clean. 
+7,Response,The pricing feels a bit high for small teams. Also
+8,Response,
+9,Participant,Bob Martinez
+10,Session,Node_10
+11,Response,The collaboration features are fantastic. Real-tim
+12,Response,Need better documentation and more tutorial videos
+13,Response,
+14,Participant,Carol Chen
+15,Session,Node_15
+16,Response,Love the dark mode option and the customizable das
+17,Response,The pricing model is confusing. Would prefer a sim
+18,Response,
+19,Participant,David Kim
+20,Session,Node_20
+21,Response,Fast performance and reliable uptime. Never had an
+22,Response,The export functionality is limited. Need more for
+23,Response,
+24,Participant,Emma Wilson
+25,Session,Node_25
+26,Response,The integration with other tools we use is seamles
+27,Response,Customer support response times could be faster. S
+28,Response,
+29,Participant,Frank Rodriguez
+30,Session,Node_30
+31,Response,Great analytics dashboard with useful insights.
+32,Response,The mobile experience needs work. Too many feature
+33,Response,
+34,Participant,Grace Lee
+35,Session,Node_35
+36,Response,The security features give me peace of mind. Two-f
+37,Response,Pricing is too expensive for freelancers. Need a c
+38,Response,
+39,Participant,Henry Brown
+40,Session,Node_40
+41,Response,The template library is extensive and saves time o
+42,Response,The search function doesn't always return relevant
+43,Response,
+44,Participant,Iris Patel
+45,Session,Node_45
+46,Response,Customer onboarding process was smooth and helpful
+47,Response,Would love to see more customization options for r
+48,Response,
+49,Participant,Jack Thompson
+50,Session,Node_50
+51,Response,The API documentation is clear and well-organized.
+52,Response,The pricing seems high compared to competitors. Ha
+53,Response,
+54,Participant,Karen White
+55,Session,Node_55
+56,Response,Love the notification system - keeps me updated wi
+57,Response,The interface feels cluttered on smaller screens. 
+58,Response,
+59,Participant,Leo Garcia
+60,Session,Node_60
+61,Response,The keyboard shortcuts make workflow much faster.
+62,Response,Need offline mode for when internet is unstable.
+63,Response,
+64,Participant,Maya Singh
+65,Session,Node_65
+66,Response,The version control feature is excellent for team 
+67,Response,Wish there was a free tier for students and educat
+68,Response,
+69,Participant,Nathan Scott
+70,Session,Node_70
+71,Response,Data visualization tools are powerful and easy to 
+72,Response,The onboarding tutorial could be more interactive 
+73,Response,
+74,Participant,Olivia Davis
+75,Session,Node_75
+76,Response,The permission controls are flexible and secure.
+77,Response,Performance slows down when working with large dat
+78,Response,
+79,Participant,Paul Anderson
+80,Session,Node_80
+81,Response,The automation features save hours of manual work.
+82,Response,The pricing structure doesn't scale well for growi
+83,Response,
+84,Participant,Quinn Taylor
+85,Session,Node_85
+86,Response,Import/export functionality works flawlessly.
+87,Response,Could use better mobile app notifications and sync
+88,Response,
+89,Participant,Rachel Green
+90,Session,Node_90
+91,Response,The UI is modern and aesthetically pleasing.
+92,Response,Need more training resources and webinars for adva
+93,Response,
+94,Participant,Sam Mitchell
+95,Session,Node_95
+96,Response,The comment and feedback system encourages good te
+97,Response,Pricing feels unjustified given the limited featur
+98,Response,
+99,Participant,Tina Lopez
+100,Session,Node_100
+101,Response,The platform stability is impressive - rarely any 
+102,Response,The user interface could be more intuitive for fir
+103,Response,
+104,Theme,mobile app
+105,Theme,notifications
+106,Theme,sync
+107,Theme,onboarding process
+108,Theme,positive experience
+109,Theme,user-friendly
+110,Theme,customer support
+111,Theme,response time
+112,Theme,user concerns
+113,Theme,powerful tools
+114,Theme,data visualization
+115,Theme,performance
+116,Theme,reliability
+117,Theme,positive sentiment
+118,Theme,analytics
+119,Theme,dashboard
+120,Theme,insights
+121,Theme,positive
+122,Theme,product features
+123,Theme,dark mode
+124,Theme,customizable dashboard
+125,Theme,notification system
+126,Theme,user experience
+127,Theme,documentation
+128,Theme,tutorial videos
+129,Theme,learning curve
+130,Theme,user support
+131,Theme,training resources
+132,Theme,webinars
+133,Theme,advanced features
+134,Theme,offline mode
+135,Theme,internet stability
+136,Theme,user concern
+137,Theme,large datasets
+138,Theme,pricing
+139,Theme,features
+140,Theme,alternatives
+141,Theme,value
+142,Theme,solo plan
+143,Theme,freelancer concerns
+144,Theme,api documentation
+145,Theme,clarity
+146,Theme,organization
+147,Theme,ui
+148,Theme,aesthetics
+149,Theme,automation
+150,Theme,efficiency
+151,Theme,productivity
+152,Theme,collaboration features
+153,Theme,real-time editing
+154,Theme,team communication
+155,Theme,feedback system
+156,Theme,collaboration
+157,Theme,export functionality
+158,Theme,format options
+159,Theme,user needs
+160,Theme,integration
+161,Theme,time-saving
+162,Theme,responsive design
+163,Theme,user interface
+164,Theme,usability
+165,Theme,keyboard shortcuts
+166,Theme,workflow efficiency
+167,Theme,mobile experience
+168,Theme,desktop features
+169,Theme,onboarding
+170,Theme,interactivity
+171,Theme,user engagement
+172,Theme,permission controls
+173,Theme,flexibility
+174,Theme,security
+175,Theme,platform stability
+176,Theme,simplicity
+177,Theme,competition
+178,Theme,cost justification
+179,Theme,scalability
+180,Theme,search functionality
+181,Theme,algorithm improvement
+182,Theme,security features
+183,Theme,two-factor authentication
+184,Theme,user trust
+185,Theme,template library
+186,Theme,first-time users
+187,Theme,navigation
+188,Theme,version control
+189,Theme,team collaboration
+190,Theme,free tier
+191,Theme,students
+192,Theme,educators
+193,Theme,accessibility
+194,Theme,customization
+195,Theme,reports
+196,Theme,dashboards

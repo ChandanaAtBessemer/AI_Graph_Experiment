@@ -1,0 +1,154 @@
+{
+  "node_types": [
+    {
+      "node_type": "Theme",
+      "count": 93
+    },
+    {
+      "node_type": "Response",
+      "count": 60
+    },
+    {
+      "node_type": "Participant",
+      "count": 20
+    },
+    {
+      "node_type": "Session",
+      "count": 20
+    },
+    {
+      "node_type": "Question",
+      "count": 3
+    },
+    {
+      "node_type": "Survey",
+      "count": 1
+    }
+  ],
+  "relationship_types": [
+    {
+      "relationship_type": "HAS_THEME",
+      "count": 130
+    },
+    {
+      "relationship_type": "IN_SESSION",
+      "count": 60
+    },
+    {
+      "relationship_type": "ANSWERS",
+      "count": 60
+    },
+    {
+      "relationship_type": "SIMILAR_TO",
+      "count": 29
+    },
+    {
+      "relationship_type": "FOR_SURVEY",
+      "count": 20
+    },
+    {
+      "relationship_type": "BY_PARTICIPANT",
+      "count": 20
+    },
+    {
+      "relationship_type": "CONTRADICTS",
+      "count": 4
+    },
+    {
+      "relationship_type": "HAS_QUESTION",
+      "count": 3
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "positive sentiment",
+      "response_count": 13
+    },
+    {
+      "theme": "pricing",
+      "response_count": 7
+    },
+    {
+      "theme": "user concerns",
+      "response_count": 6
+    },
+    {
+      "theme": "performance",
+      "response_count": 4
+    },
+    {
+      "theme": "user interface",
+      "response_count": 3
+    },
+    {
+      "theme": "usability",
+      "response_count": 3
+    },
+    {
+      "theme": "mobile app",
+      "response_count": 2
+    },
+    {
+      "theme": "reliability",
+      "response_count": 2
+    },
+    {
+      "theme": "user-friendly",
+      "response_count": 2
+    },
+    {
+      "theme": "user support",
+      "response_count": 2
+    },
+    {
+      "theme": "efficiency",
+      "response_count": 2
+    },
+    {
+      "theme": "product features",
+      "response_count": 2
+    },
+    {
+      "theme": "time-saving",
+      "response_count": 2
+    },
+    {
+      "theme": "dark mode",
+      "response_count": 1
+    },
+    {
+      "theme": "customizable dashboard",
+      "response_count": 1
+    },
+    {
+      "theme": "documentation",
+      "response_count": 1
+    },
+    {
+      "theme": "tutorial videos",
+      "response_count": 1
+    },
+    {
+      "theme": "learning curve",
+      "response_count": 1
+    },
+    {
+      "theme": "format options",
+      "response_count": 1
+    },
+    {
+      "theme": "user needs",
+      "response_count": 1
+    }
+  ],
+  "similarity_stats": {
+    "total_similarities": 29,
+    "avg_score": 0.5559251733504565,
+    "min_score": 0.5026927821481038,
+    "max_score": 0.656514708027568
+  },
+  "contradiction_stats": {
+    "total_contradictions": 4
+  },
+  "generated_date": "2025-11-07"
+}
