@@ -1,7 +1,5 @@
 # Day 4 Report: Enhanced Agent with Ontology Queries
 
-## Date
-November 7, 2025
 
 ## Objective
 Extend the agent to query ontology relationships (SIMILAR_TO, CONTRADICTS), enabling advanced graph reasoning queries.
@@ -304,6 +302,5 @@ test_queries = [
 
 **Day 4 Duration:** 6 hours  
 **Lines of Code:** 250 (enhanced_agent.py)  
-**API Calls:** ~20 test queries  
-**Cost:** ~$0.002  
+**API Calls:** ~20 test queries   
 **Outcome:** Ontology-aware agent ready for production
