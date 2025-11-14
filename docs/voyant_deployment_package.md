@@ -412,6 +412,5 @@ docker run -e NEO4J_dbms_memory_heap_max__size=2G ...
 
 ---
 
-**Package Version:** 1.0  
-**Last Updated:** November 7, 2025  
+**Package Version:** 1.0   
 **Status:** Production-Ready
