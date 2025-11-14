@@ -1,8 +1,5 @@
 # Ontology Experiment 1: Semantic Similarity (SIMILAR_TO)
 
-## Date
-November 7, 2025
-
 ## Hypothesis
 Survey responses with similar meaning should cluster together via SIMILAR_TO relationships, enabling queries like "find responses similar to this pricing concern."
 
@@ -283,5 +280,4 @@ class SimilarityBuilder:
 **Experiment Duration:** 2 hours  
 **Lines of Code:** 150  
 **API Calls:** 40 embeddings + 780 similarity calculations  
-**Cost:** ~$0.001  
 **Outcome:** Production-ready SIMILAR_TO relationships
