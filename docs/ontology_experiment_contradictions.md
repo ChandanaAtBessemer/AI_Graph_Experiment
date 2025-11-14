@@ -1,7 +1,6 @@
 # Ontology Experiment 2: Contradiction Detection (CONTRADICTS)
 
-## Date
-November 7, 2025
+
 
 ## Hypothesis
 Survey responses can contain contradictory opinions about the same topic. A CONTRADICTS relationship would enable queries like "show me opposing viewpoints about pricing or UI."
@@ -394,5 +393,4 @@ class ContextAwareContradiction(dspy.Signature):
 **Experiment Duration:** 2 hours  
 **Lines of Code:** 180  
 **API Calls:** ~50 DSPy calls across multiple themes  
-**Cost:** ~$0.005  
 **Outcome:** 4 contradictions detected, 100% precision, production-ready
