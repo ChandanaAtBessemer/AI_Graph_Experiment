@@ -217,7 +217,7 @@ Result: 3 similar responses found:
 **Enhanced Agent:**
 - 6 tools, complex queries
 - Average query: 2-3 API calls
-- Cost per query: ~$0.0004
+
 
 **Impact:** **+100% cost**, but **+233% capability** (3 → 7 query types)
 
